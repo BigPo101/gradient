@@ -9,6 +9,12 @@ body {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate;
+  transform: translate(-50%,-50%);
+}
+.text {
+  background: linear-gradient(90deg,#00dbde,#fc00ff);
+  font-family: Poppins;
+  font-size: 40px;
+  
 
   
